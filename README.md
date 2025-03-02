@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deepak7781
-- 👀 I’m interested in thinking of coding logics. Well I am a beginner
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on simple and mini projects
-- 📫 You can reach me out on deepak21082005@gmail.com
+- 👀 I’m interested in building things...
+- 🌱 I’m currently learning MATLAB & Simuliunk
+- 💞️ I’m looking to collaborate in projexts related to aerospace engineering
+- 📫 You can reach me out on deepakaero07@gmail.com
 
 <!---
 Deepak7781/Deepak7781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
