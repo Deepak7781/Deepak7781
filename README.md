@@ -10,7 +10,7 @@ Passionate about flight simulation, control systems, and everything that keeps p
 - **NDI Controller**: Nonlinear Dynamic Inversion controller for advanced flight dynamics.
 - **Blade Element Theory**: Modeling and simulation for aerodynamic analysis.
 - **Numerical Methods**: Algorithms and code to solve engineering problems efficiently.
-- **Formula**: Applied engineering concepts in competitive racing environments.
+- **Formula**: Python Application for finding physics formulae
 
 ---
 
