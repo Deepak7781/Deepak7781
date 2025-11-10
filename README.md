@@ -38,7 +38,7 @@ Passionate about flight simulation, control systems, and everything that keeps p
 
 ---
 
-> “The engine is the heart of an airplane, but the pilot is its soul.” — Walter Raleigh
+
 
 ---
 
