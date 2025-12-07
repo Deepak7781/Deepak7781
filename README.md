@@ -49,8 +49,9 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 ---
 
 ## 📊 GitHub Stats
-[![Deepak7781's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak7781&show_icons=true&hide_title=true&count_private=true&theme=radical&bg_color=0d1117&border_color=30363d&text_color=7c3e94&title_color=f0f6fc&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak7781&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Deepak7781's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak7781&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak7781&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=Deepak7781&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 *Consistent commits, endless curiosity—aiming for that 365-day streak!*
