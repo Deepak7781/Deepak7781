@@ -2,11 +2,11 @@
 
 🎓 **Aeronautical Engineering Student**  
 *Passionate about turning the skies into playgrounds through flight simulation, robust control systems, and innovative aerodynamics.*  
-I thrive on bridging theory and practice—whether it's crafting Nonlinear Dynamic Inversion controllers to tame unstable flight regimes or coding numerical solvers that make complex PDEs bow to computation. Let's launch some ideas together! 🚀
+I thrive on bridging theory and practice—whether it's crafting Nonlinear Dynamic Inversion controllers to tame unstable flight regimes or coding numerical solvers that make complex PDEs bow to computation. Let's launch some ideas together! 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [NDI Controller](https://github.com/Deepak7781/ndi-controller)  
 **Nonlinear Dynamic Inversion for Advanced Flight Dynamics**  
@@ -35,7 +35,7 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 | **Languages & Tools** | **Domains** | **Frameworks/Libraries** |
 |------------------------|-------------|---------------------------|
