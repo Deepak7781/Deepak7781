@@ -58,7 +58,7 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 
 ---
 
-## ✈️ About Me
+##  About Me
 - **Simulation :** From dissecting F-16 stability modes to simulating hypersonic reentries, I geek out over what makes flight *feel* right.  
 - **Creator at Heart:** Love hacking together Simulink models for quadcopter swarms or Python scripts for trajectory optimization—collaboration is my fuel.  
 - **Control:** Avid reader of *Feedback Control of Dynamic Systems*, weekend hiker (plotting parabolic trajectories, naturally), and aspiring drone racer.  
@@ -68,10 +68,10 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 
 ---
 
-## 📫 Get in Touch
-- 📧 **Email:** deepakaero07@gmail.com (or ping via GitHub Issues)  
-- 💼 **LinkedIn:** [Deepak S](https://linkedin.com/in/deepak-s-036155313)  
-- 🐦 **X/Twitter:** [Deepak S](https://x.com/deepak_s_aero)  
+##  Get in Touch
+-  **Email:** deepakaero07@gmail.com (or ping via GitHub Issues)  
+-  **LinkedIn:** [Deepak S](https://linkedin.com/in/deepak-s-036155313)  
+-  **X/Twitter:** [Deepak S](https://x.com/deepak_s_aero)  
 
 
 [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=deepak7781.readme)](https://github.com/Deepak7781)  
