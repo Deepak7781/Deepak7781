@@ -57,15 +57,6 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 
 *Consistent commits, endless curiosity—aiming for that 365-day streak!*
 
----
-
-##  About Me
-- **Simulation :** From dissecting F-16 stability modes to simulating hypersonic reentries, I geek out over what makes flight *feel* right.  
-- **Creator at Heart:** Love hacking together Simulink models for quadcopter swarms or Python scripts for trajectory optimization—collaboration is my fuel.  
-- **Control:** Avid reader of *Feedback Control of Dynamic Systems*, weekend hiker (plotting parabolic trajectories, naturally), and aspiring drone racer.  
-- **Mission:** Democratize aero engineering tools so anyone can dream bigger and fly higher.  
-
-*Open to internships in flight controls, UAV R&D, or aero simulation. Let's connect—coffee (virtual or real) on hypersonics? ☕*
 
 ---
 
