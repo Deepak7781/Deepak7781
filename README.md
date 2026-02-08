@@ -55,7 +55,6 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=Deepak7781&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
-*Consistent commits, endless curiosity—aiming for that 365-day streak!*
 
 
 ---
