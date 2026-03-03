@@ -2,7 +2,7 @@
 
 🎓 **Aeronautical Engineering Student**  
 *Passionate about turning the skies into playgrounds through flight simulation, robust control systems, and innovative aerodynamics.*  
-I thrive on bridging theory and practice—whether it's crafting Nonlinear Dynamic Inversion controllers to tame unstable flight regimes or coding numerical solvers that make complex PDEs bow to computation. Let's launch some ideas together! 
+I thrive on bridging theory and practice—whether it's crafting Nonlinear Dynamic Inversion controllers to tame unstable flight regimes or coding numerical solvers that make complex PDEs bow to computation. Let's launch some ideas together!!
 
 ---
 
@@ -54,8 +54,6 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak7781&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=Deepak7781&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)  
-
-
 
 ---
 
