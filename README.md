@@ -71,5 +71,3 @@ A sleek Python GUI app that searches, derives, and visualizes 500+ aeronautical 
 > — *Deepak's Idea for Liftoff*  
 
 ---
-
-*Thanks for stopping by! Star a repo if it sparks joy, or fork one to soar. 🔭✨*
